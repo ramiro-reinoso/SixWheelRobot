@@ -16,6 +16,7 @@ public class Constants {
 	public static final int testvariable34 = 34;
 	public static final int testvariable35 = 35;
 	public static final int testvariable37 = 37; //added by dar
+    public static final int testvariable36 = 36;  // Added by rer
 
 	
 	public static final int shifterSolenoid = 0;
