@@ -252,8 +252,8 @@ public class Robot extends TimedRobot {
 		
 		// checkJeVois();
 		
-		robotDDrive.arcadeDrive(driveController.getRawAxisWithDeadzone(RobovikingStick.xBoxLeftStickY) , 
-				driveController.getRawAxisWithDeadzone(RobovikingStick.xBoxRightStickX));
+		robotDDrive.arcadeDrive(0.0,0.0);
+		//THIS COUNTS AS A CHANGE
 		
 	//	leftTrans.set(0.5);
 	//	rightTrans.set(0.5);
