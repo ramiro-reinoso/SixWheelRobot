@@ -12,6 +12,8 @@ public class Constants {
 	public static final int testvariable0 = 0;
 
 	public static final int testvariable32 = 32;
+	public static final int testvariable33 = 33;
+	public static final int testvariable34 = 34;
 
 	
 	public static final int shifterSolenoid = 0;
