@@ -21,7 +21,7 @@ public class Constants {
     public static final int testvariable40 = 40;  // Added by rer-3 My_Branch
     public static final int testvariable39 = 39;  // Added by rer-2 Branch_2
     public static final int testvariable41 = 41;  // Added by rer-2 Branch_3 Dell
-
+    public static final int testvariable42 = 42;  // Added by rer-2 Branch_3 Lenovo
 	
 	public static final int shifterSolenoid = 0;
 	public static final int pcmDeviceID = 1;
