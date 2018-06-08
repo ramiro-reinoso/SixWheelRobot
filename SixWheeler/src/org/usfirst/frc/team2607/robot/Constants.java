@@ -19,6 +19,7 @@ public class Constants {
     public static final int testvariable36 = 36;  // Added by rer
     public static final int testvariable38 = 38;  // Added by rer-1
     public static final int testvariable40 = 40;  // Added by rer-3 My_Branch
+    public static final int testvariable39 = 39;  // Added by rer-2 Branch_2
 
 	
 	public static final int shifterSolenoid = 0;
