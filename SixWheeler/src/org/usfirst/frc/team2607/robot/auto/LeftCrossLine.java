@@ -35,6 +35,7 @@ public class LeftCrossLine extends AutonomousMode {
 	public void autonomousInit () {
 		
 //		theRobot.elevator.setPosition(2000);
+//		theRobot.elevator.setPosition(3000);  Added to test github
 		
 		double [] tempPoint = new double [3];
 		
